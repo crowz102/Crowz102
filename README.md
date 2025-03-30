@@ -5,6 +5,7 @@
 <img align="left" title="Python" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" />
 <img align="left" title="Pandas" alt="Pandas" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" title="Numpy" alt="Numpy" width="25px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/> 
+<img align="left" title="FastAPI" alt="FastAPI" width="25px" src="https://repository-images.githubusercontent.com/763672847/372af879-faec-44b6-bc50-6f6b770c12f5"/>
 <img align="left" title="Tensor Flow" alt="Tensor Flow" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt0OU-18slF5XnJ0no2b9gA8twntZG6UngQ&s"/>
 <!--<img align="left" title="Keras" alt="Keras" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66v5-2j94_LFzHyPcFfyGR2JLOoFrjjicPQ&s"/>
 <!-- ###<img align="left" title="Pytorch" alt="Pytorch" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABCjpuMscLQRv3Qn612CuXy7wBF23Xs9AOQ&s"/> -->
