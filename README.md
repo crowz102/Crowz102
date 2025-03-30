@@ -12,6 +12,7 @@
 <p align="center">
   <img alt="gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxnMTZjOGU2MG1hcmEzcjdqNXdjeXdpbXZzMHlybmV6OGltZXRvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 </p>
+
 ### Activities and Awards
 - Participated in the Startup Competition 2022 organized by Vietnam-Korea University
 - Received a Consolation Prize in the RoboCar 2023 competition organized by Vietnam-Korea University.
