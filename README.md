@@ -2,7 +2,7 @@
 ### :zap: My Skill
 
 <p align="center">
-  <img alt="gif" src=".github/giphy.gif"/>
+  <img alt="gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxnMTZjOGU2MG1hcmEzcjdqNXdjeXdpbXZzMHlybmV6OGltZXRvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 </p>
 
 ### Languages and Tools
