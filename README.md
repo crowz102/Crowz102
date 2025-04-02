@@ -29,7 +29,7 @@
 
 ### 📈 Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crowz102&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Crowz102)]
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crowz102&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=dark)
 
