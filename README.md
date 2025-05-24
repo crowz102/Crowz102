@@ -18,9 +18,6 @@
 - Participated in the Startup Competition 2022 organized by Vietnam-Korea University
 - Received a Consolation Prize in the RoboCar 2023 competition organized by Vietnam-Korea University.
 
-### Object
-🔥 To leverage my skills in Machine Learning and Deep Learning, particularly in applying advanced AI techniques to real-world problems. I aim to contribute to innovative projects and grow within a dynamic tech environment.
-
 ### Hobbies and Interests
 - Explore the latest trends in AI and Machine Learning.
 - Read both literature or books on new technologies to expand knowledge.
