@@ -11,7 +11,7 @@
 <!-- ###<img align="left" title="Pytorch" alt="Pytorch" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABCjpuMscLQRv3Qn612CuXy7wBF23Xs9AOQ&s"/> -->
 <img align="left" title="PowerBI" alt="PowerBI" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png"/><hr>
 <p align="center">
-  <!-- <img alt="gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxnMTZjOGU2MG1hcmEzcjdqNXdjeXdpbXZzMHlybmV6OGltZXRvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/> -->
+  <img alt="gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxnMTZjOGU2MG1hcmEzcjdqNXdjeXdpbXZzMHlybmV6OGltZXRvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 </p>
 
 ### Activities and Awards
